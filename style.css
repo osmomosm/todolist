@@ -1,0 +1,19 @@
+.custom{
+    padding: 4%;
+    text-align: center;
+    
+}
+#myInput{
+    border: 2px solid black;
+}
+.list-group-item{
+    border: 2px solid black;
+}
+body{
+    background-color:rgba(255,0,0,0.5);
+}
+
+
+
+
+
